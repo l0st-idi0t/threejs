@@ -14,7 +14,7 @@ function init() {
 
   //create scene
   scene = new THREE.Scene();
-  scene.background = new THREE.Color(#add8e6);
+  scene.background = new THREE.Color(add8e6);
   //rotation point
   rotationPoint = new THREE.Object3D();
   rotationPoint.position.set(0,0,0);
